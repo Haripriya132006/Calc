@@ -26,12 +26,9 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ```
-<!DOCTYPE html>
-<html lang="en">
-
+<html >
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Simple Calculator</title>
     <style>
         #calc {
