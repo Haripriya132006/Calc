@@ -71,7 +71,7 @@ Publish the website in the given URL.
             <input type="button" onkeydown="op(event)" onclick="f('5')" value="5">
             <input type="button" onkeydown="op(event)" onclick="f('6')" value="6">
             <input type="button" onkeydown="op(event)" onclick="f('*')" value="x">
-            <input type="button" onkeydown="op(event)" onclick="f('^0.5')" value="^0.5"><br><br>
+            <input type="button" onkeydown="op(event)" onclick="f('^0.5')" value="&radic;"><br><br>
     
             <input type="button" onkeydown="op(event)" onclick="f('1')" value="1">
             <input type="button" onkeydown="op(event)" onclick="f('2')" value="2">
@@ -127,6 +127,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-12-15 212957.png>)
+![Screenshot 2023-12-22 130734](https://github.com/Haripriya132006/Calc/assets/144870747/04e65935-48fa-43cd-b0d7-9740f29dd883)
+![Screenshot 2023-12-22 130752](https://github.com/Haripriya132006/Calc/assets/144870747/7d6d2493-4f34-467e-85e3-52c4f2695e6b)
+
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
